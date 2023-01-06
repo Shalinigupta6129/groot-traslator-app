@@ -71,6 +71,7 @@ footer{
     margin: auto;
     background-color: var(--brown);
     border-top-right-radius: 0.5rem;
+    text-align: center;
 }
 
 #btn-translate{
