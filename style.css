@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Yeon Sung', cursive;
-    max-width: 60%;
+    max-width: 80%;
     width: 100%;
     margin: 0px auto;
      
@@ -62,14 +62,6 @@ h1{
         border-radius: 0.4rem;
 }
 
-/*.main-item{
-
-    padding: 1rem 1rem;
-    margin: auto;
-    width: 600px;
-
-
-}*/
 
 h3{
     text-align: center;
@@ -77,7 +69,6 @@ h3{
 
 footer{
     padding: 1rem 1rem;
-    max-width: 900px;
     margin: auto;
     background-color: var(--brown);
     border-top-right-radius: 0.5rem;
