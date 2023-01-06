@@ -31,16 +31,15 @@ h1{
     background-size: 350px;
     height: 330px;
     background-blend-mode: lighten;
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
 }
     .container-center{
        padding: 1rem 0rem; 
     }
 
-    .main{
-    max-width: 900px;
-    margin: auto;
-    text-align: center;
-}
+
 #output{
     display: block;
     padding: 1rem;
