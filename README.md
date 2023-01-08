@@ -1,8 +1,8 @@
 # Groot Translator App
 This app is a translation app which is made with fun translations API as part of level zero of neog camp. It translates any input text into groot language.
 ## Technologies
-* HTML
-* CSS
+* HTML5
+* CSS3
 * Vanilla JS
 ## Hosted on
 Netlify
